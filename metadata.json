@@ -1,0 +1,8 @@
+
+{
+  "name": "NovaTest Ecosystem",
+  "description": "A comprehensive platform featuring psychological and physical tests, a token-based economy, agent distribution networks, and exclusive Telegram channel access. Built with a stunning Purple Tanah aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
